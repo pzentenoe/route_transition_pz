@@ -1,6 +1,6 @@
 name: route_transition_pz
 description: This package helps transitions between screens elegantly and easily.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/pzentenoe
 
 environment:
